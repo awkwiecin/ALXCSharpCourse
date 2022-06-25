@@ -12,8 +12,10 @@ namespace ALXCSharpCourse
             Console.WriteLine("Hello World!");
             //VariablesDemo.Run();
             //VariablesDemo.RunCalculator();
-            VariablesDemo.RunLogicalCalculator();
-            
+            //VariablesDemo.RunLogicalCalculator();
+            //FunctionsDemo.Run();
+            //ClassesDemo.Run();
+            EnumsDemo.Run();
         }
     }
 }

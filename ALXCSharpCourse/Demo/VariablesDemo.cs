@@ -6,7 +6,7 @@ namespace ALXCSharpCourse.Demo
     {
         public static void Run()
         {
-            Console.WriteLine("Variables demo");
+            Console.WriteLine("-- Variables demo --");
             int number = 10;
             bool booleanValue = true;
             bool booleanValue1 = false;
