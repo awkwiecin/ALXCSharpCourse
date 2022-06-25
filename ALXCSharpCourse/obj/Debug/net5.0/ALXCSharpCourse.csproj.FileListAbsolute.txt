@@ -1,0 +1,16 @@
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.exe
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.deps.json
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.runtimeconfig.json
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.runtimeconfig.dev.json
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.dll
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ref\ALXCSharpCourse.dll
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\bin\Debug\net5.0\ALXCSharpCourse.pdb
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.csproj.AssemblyReference.cache
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.AssemblyInfoInputs.cache
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.AssemblyInfo.cs
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.dll
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ref\ALXCSharpCourse.dll
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.pdb
+C:\Users\kurs\source\repos\ALXCSharpCourse\ALXCSharpCourse\obj\Debug\net5.0\ALXCSharpCourse.genruntimeconfig.cache
