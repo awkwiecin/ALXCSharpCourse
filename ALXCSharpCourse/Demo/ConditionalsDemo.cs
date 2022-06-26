@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ALXCSharpCourse.Enums;
+using System;
 
 namespace ALXCSharpCourse.Demo
 {
@@ -56,6 +57,51 @@ namespace ALXCSharpCourse.Demo
              * else
              *      invoiceService.Reject();
              */
+        }
+
+        public static void RunSwitch()
+        {
+            var sex = Sex.FEMALE;
+            switch (sex)
+            {
+                case Sex.MALE:
+                    Console.WriteLine("The sex is male");
+                    Console.WriteLine("Hello");
+                    break;
+
+                case Sex.CUSTOM:
+                    Console.WriteLine("The sex is custom");
+                    break;
+
+                default:
+                    Console.WriteLine("default");
+                    break;
+            }
+
+            Console.WriteLine("Switch end...");
+
+            var number = 5;
+
+            switch (number)
+            {
+                case 0:
+                    Console.WriteLine("Hello");
+                    break;
+
+                case 1:
+                    Console.WriteLine("I am a potato");
+                    break;
+
+                case 126:
+                    Console.WriteLine("C# RULEZ");
+                    break;
+
+                default:
+                    Console.WriteLine("default");
+                    break;
+            }
+
+            Console.WriteLine("Switch end...");
         }
     }
 }
